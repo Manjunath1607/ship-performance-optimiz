@@ -74,5 +74,5 @@ This work is licensed under the MIT License.
 
 ** K.S. Manjunath created this project** as part of his Six Sigma Black Belt learning journey.  
 All content, analysis, and structure reflect original work using simulated data.  
-Feel free to learn from it, but please give credit if you reuse it.  
+You can learn from it, but please give credit if you use it.  
 Plagiarism or unauthorized replication is discouraged and may result in takedown reporting.
